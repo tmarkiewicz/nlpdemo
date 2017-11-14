@@ -55,3 +55,5 @@ curl --user "61100b1a-64ad-482a-be61-018a86a3cca3":"l67YmgA2uQC1" "https://gatew
 [IBM Watson NLU demo](https://natural-language-understanding-demo.mybluemix.net/)
 
 [IBM Code Patterns for AI](https://developer.ibm.com/code/technologies/artificial-intelligence/)
+
+[Free chapter preview on NLP from new book: Getting Started with Artificial Intelligence](http://ibm.biz/aiebooknlp)
