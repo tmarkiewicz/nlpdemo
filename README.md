@@ -43,3 +43,5 @@ New sentence text -- "I drove my mean and angry friend Mary to the park in my Te
 curl --user "61100b1a-64ad-482a-be61-018a86a3cca3":"l67YmgA2uQC1" "https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2017-02-27&text=I%20drove%20my%20mean%20and%20angry%20friend%20Mary%20to%20the%20park%20in%20my%20Tesla%20while%20listening%20to%20music%20on%20my%20iPhone.&features=entities,sentiment,emotion"
 ```
 
+## Additional resources
+
