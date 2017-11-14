@@ -46,7 +46,10 @@ curl --user "61100b1a-64ad-482a-be61-018a86a3cca3":"l67YmgA2uQC1" "https://gatew
 ## Additional resources
 [IBM Cloud](https://ibm.biz/BdjVVX)
 
-IBM Watson NLU documentation
+[IBM Watson NLU documentation](https://console.bluemix.net/docs/services/natural-language-understanding/getting-started.html#getting-started-tutorial)
+
+[IBM Watson NLU API Reference](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/)
 
 [IBM Watson NLU demo](https://natural-language-understanding-demo.mybluemix.net/)
 
+[IBM Code Patterns for AI](https://developer.ibm.com/code/technologies/artificial-intelligence/)
