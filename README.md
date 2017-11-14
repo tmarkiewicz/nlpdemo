@@ -1,9 +1,11 @@
 # Demo of NLP with IBM Watson
 
-"Natural Language Understanding enables advanced text analysis through natural language processing. The service analyzes unstructured text to extract metadata such as entities, general concepts, keywords, categories, relations, sentiment, and emotion. With custom annotation models developed using Watson Knowledge Studio, you can further customize the service to identify domain-specific entities and relations in your content."
-https://github.com/tmarkiewicz/nlpdemo
+This supports the demo of the IBM Watson NLU service given as part of the O'Reilly webcast [Using natural language processing to build applications in the enterprise](http://www.oreilly.com/pub/e/3919)
 
-Documentation: 
+From the IBM Watson NLU site:
+"Natural Language Understanding enables advanced text analysis through natural language processing. The service analyzes unstructured text to extract metadata such as entities, general concepts, keywords, categories, relations, sentiment, and emotion. With custom annotation models developed using Watson Knowledge Studio, you can further customize the service to identify domain-specific entities and relations in your content."
+
+Getting started: 
 
 1. Create a free IBM Cloud (formerly Bluemix) account here: https://ibm.biz/BdjVVX
 2. From the Dashboard, click on the blue "Create+" button
