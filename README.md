@@ -11,7 +11,7 @@ Getting started:
 2. From the Dashboard, click on the blue "Create+" button
 3. From the sidebar, select Watson, and then "Natural Language Understanding"
 4. Select the "Lite" plan (gives 30,000 NLU items per month for free) and click "Create"
-5. Get your credentials
+5. Copy your credentials
 
 
 For the following curl requests, we'll use this initial sentence -- "I drove my friend Mary to the park in my Tesla while listening to music on my iPhone."
